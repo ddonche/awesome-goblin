@@ -16,3 +16,4 @@ A curated directory of tools, tutorials, and infrastructure for the **Goblin Pro
 Tools built directly using the Goblin language:
 * [Sheriff](https://goblinlang.org) — The static site generation tool written in Goblin, used to compile and build the language documentation.
 * [Sheriff Cloud](https://sheriffcloud.com) — The hosted version of Sheriff featuring an integrated WYSIWYG editor and automated deployment infrastructure.
+* [Chaos Cauldron](https://chaoscauldron.net/) - Random Generators for RPGs & Storytelling, powered by Goblin.
